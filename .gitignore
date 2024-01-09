@@ -1,4 +1,6 @@
 .DS_Store
+app_token.txt
+gmaps_token.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
